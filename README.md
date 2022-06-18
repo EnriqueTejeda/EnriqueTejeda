@@ -29,3 +29,4 @@ These are the technologies I have worked with recently:
 - Monitoring tools like Prometheus / Grafana, Datadog, Instana, OpsGenie
 
 Linktree Profile: https://linktr.ee/enriquetejeda
+Linkedin Profile: https://www.linkedin.com/in/who-is-etejeda/
