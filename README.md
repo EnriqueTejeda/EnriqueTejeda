@@ -28,5 +28,9 @@ These are the technologies I have worked with recently:
 - Java / Go / Node.js / Shell Scripting / Terraform
 - Monitoring tools like Prometheus / Grafana, Datadog, Instana, OpsGenie
 
-Linktree Profile: https://linktr.ee/enriquetejeda
-Linkedin Profile: https://www.linkedin.com/in/who-is-etejeda/
+* Linktree Profile: https://linktr.ee/enriquetejeda
+* Linkedin Profile: https://www.linkedin.com/in/who-is-etejeda/
+
+<p align="center">
+![EnriqueTejeda GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnriqueTejeda&count_private=true&show_icons=true&theme=solarized-dark)
+</p>
