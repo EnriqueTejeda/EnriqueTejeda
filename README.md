@@ -12,13 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey! :wave: First of all thanks for visiting my profile :pray:, please feel free to ask anything and I will try to help you :heart:.
 
-l love creating solutions to any problem through software engineering. I am enthusiastic and passionate about all topics relationed of tech industry  as well as I enjoy learning new things every day and sharing it in local conferences where I have participated as a speaker.
+I'm a geek with a passion for creating innovative solutions to complex problems. I am enthusiastic and passionate about all topics related to the software engineering and tech industry, and constantly strive to stay up-to-date with the latest trends and best practices. Additionally, I love sharing everything I've learned at local conferences where I have participated as a speaker.
 
-Currently i work at Kueski (FinTech Series C) in a DevOps Engineer role but have had the privilege of working in companies of the travel and tourism industry such as Grupo Sunset (Resorts), Grupo Xcaret (E-commerce team) in positions such as Software Developer, Code Reviewer and lately as DevOps Engineer, in each of them always looking to create the best solutions with the right technology (i really love stay tune about of latest technology in the industry).
+Currently, I work at Kueski (FinTech Series C) in a DevOps Engineer role, but I have had the privilege of working in companies in the tourism industry such as "Grupo Sunset" (Resorts) and "Grupo Xcaret" (E-commerce team) in positions such as Software Developer, Code Reviewer, and lately as DevOps Engineer. In each of them, I have always looked to create the best solutions with the right technology (I really love staying tuned with the latest technology in the industry). Also, I continuously contribute to open source projects (please visit my GitHub Profile).
 
-I have worked with cloud native technologies in different vendors as well as I have developed solutions in different programming languages throughout my career, always looking to comply with best practices and making a good architecture, additionally I have different certifications that I have done previously with vendors such as Salesforce and Oracle focused on Solution Architecture and Software Development.
+I have worked with cloud-native technologies in different vendors, and I have developed solutions in different programming languages throughout my career, always looking to comply with best practices and make good architecture. Additionally, I have different certifications that I have completed previously with vendors such as Salesforce (Developer Platform), Oracle (Solutions Architect Professional) & Linux Foundation (CKA), focused on Solution Architecture and Software Development.
 
 These are the technologies I have worked with recently:
 
@@ -28,8 +27,8 @@ These are the technologies I have worked with recently:
 - Java / Go / Node.js / Shell Scripting / Terraform
 - Monitoring tools like Prometheus / Grafana, Datadog, Instana, OpsGenie
 
-* Linktree Profile: https://linktr.ee/enriquetejeda
-* Linkedin Profile: https://www.linkedin.com/in/who-is-etejeda/
+* 📫 Linktree Profile: https://linktr.ee/enriquetejeda
+* 📫 Linkedin Profile: https://www.linkedin.com/in/who-is-etejeda/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EnriqueTejeda&count_private=true&show_icons=true&theme=solarized-dark">
