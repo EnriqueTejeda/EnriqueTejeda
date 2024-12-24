@@ -13,23 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a geek with a passion for creating innovative solutions to complex problems. I am enthusiastic and passionate about all topics related to the software engineering and tech industry, and constantly strive to stay up-to-date with the latest trends and best practices. Additionally, I love sharing everything I've learned at local conferences where I have participated as a speaker.
+## Hi there! 👋
 
-Currently, I work at Kueski (FinTech Series C) in a DevOps Engineer role, but I have had the privilege of working in companies in the tourism industry such as "Grupo Sunset" (Resorts) and "Grupo Xcaret" (E-commerce team) in positions such as Software Developer, Code Reviewer, and lately as DevOps Engineer. In each of them, I have always looked to create the best solutions with the right technology (I really love staying tuned with the latest technology in the industry). Also, I continuously contribute to open source projects (please visit my GitHub Profile).
+I’m a geek with a passion for creating innovative solutions to complex problems.  
 
-I have worked with cloud-native technologies in different vendors, and I have developed solutions in different programming languages throughout my career, always looking to comply with best practices and make good architecture. Additionally, I have different certifications that I have completed previously with vendors such as Salesforce (Developer Platform), Oracle (Solutions Architect Professional) & Linux Foundation (CKA), focused on Solution Architecture and Software Development.
+💡 **Enthusiastic about software engineering and tech** — always striving to stay up to date with the latest trends and best practices.  
+🎤 **Knowledge sharer** — I love speaking at local conferences to spread what I’ve learned.  
+💰 **Crypto enthusiast** — I’ve participated in several crypto projects, exploring blockchain and cryptocurrency technology.  
 
-These are the technologies I have worked with recently:
+Currently, I work at **Kueski (FinTech Series C)** as a **DevOps Engineer**. I also have experience in the tourism industry at companies like **Grupo Sunset (Resorts)** and **Grupo Xcaret (E-commerce)**, taking on roles such as **Software Developer**, **Code Reviewer**, and **DevOps Engineer**. In every position, I focus on choosing the best technology for the right solution while staying on top of new advancements.  
 
-- Kubernetes & satellital tech (service mesh, admissions controllers, operators)
-- AWS / Oracle Cloud / GCP
-- Jenkins / Github Actions / Harness 
-- Java / Go / Node.js / Shell Scripting / Terraform
-- Monitoring tools like Prometheus / Grafana, Datadog, Instana, OpsGenie
+I’m always contributing to **open-source** projects, so feel free to check out my [GitHub profile](#)!  
 
-* 📫 Linktree Profile: https://linktr.ee/enriquetejeda
-* 📫 Linkedin Profile: https://www.linkedin.com/in/tejedaenrique/
+### ⚙️ Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnriqueTejeda&count_private=true&show_icons=true&theme=solarized-dark">
-</p>
+- **Kubernetes** & related tech (service mesh, admission controllers, operators)  
+- **AWS / Oracle Cloud / GCP** ☁️  
+- **Jenkins / GitHub Actions / Harness**  
+- **Java / Go / Node.js / Shell Scripting / Terraform**  
+- Monitoring with **Prometheus, Grafana, Datadog, Instana, OpsGenie**  
+
+### 🌐 Get in touch
+
+- [Linktree](https://linktr.ee/enriquetejeda)  
+- [LinkedIn](https://www.linkedin.com/in/tejedaenrique/)  
